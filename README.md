@@ -7,7 +7,7 @@
 This Power BI dashboard presents a comprehensive analysis of Amazon's sales data for the year **2025**, focusing on customer behavior, product performance, payment trends, and geographic insights.
 
 ## 🔗 Dashboard Link
-👉 [Click here to view the dashboard](#)  
+👉 [https://github.com/ShyamChodisetti/Amazon-Sales-Dashboard/blob/main/Amazon%20Dashboard.pbix](#)  
 *(Replace `#` with your Power BI Service or portfolio link)*
 
 ---
